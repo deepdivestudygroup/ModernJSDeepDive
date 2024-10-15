@@ -32,7 +32,7 @@ https://docs.google.com/spreadsheets/d/1Vs8tOaaD-JT1ZMX-DNN14oIwHLSZhXVq-kQrQUD1
 
 - 6일간 스터디 준비
   1. 책 읽기
-  2. Github에 정리하기, 정리 방식은 자유
+  2. Github에 정리하기, 정리 방식은 자유 (해당 주차 폴더에 "본인이름.md" 파일에다가 정리하기!)
   3. 해당 주차에서 공부한 내용을 토대로 퀴즈 준비하기
  
 - 스터디 당일
