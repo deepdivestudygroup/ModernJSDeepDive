@@ -53,3 +53,6 @@ https://docs.google.com/spreadsheets/d/1Vs8tOaaD-JT1ZMX-DNN14oIwHLSZhXVq-kQrQUD1
       - 미리 결석 사유를 말하는 경우에는 패널티 부과 X
       - 결석 인원이 두명이 넘어가는 경우 해당 주만 날짜 변경 논의하기
       - 말하지 않고 결석하는 경우 패널티 부과 (벌금 10,000원)
+     
+    벌금 현황
+   10/27(일) 성찬 10,000    
